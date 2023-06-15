@@ -1,5 +1,3 @@
-
-
 # Alpha-All
 
 It is a social media web application which allows us to use different kinds of application like music, video, audio, yoga,
